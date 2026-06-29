@@ -1,5 +1,7 @@
 # Coming Soon & Maintenance Mode Lite
 
+🌐 **[Browse all plugins](https://zubeidhendricks.github.io/wp-plugins-site/)** · ⬇️ **[Download .zip](https://github.com/ZubeidHendricks/wp-coming-soon-lite/releases/latest/download/coming-soon-lite.zip)**
+
 Show a clean, branded coming-soon or maintenance page to visitors while you
 build — admins still see the live site. Part of the
 [Zub Plugin Factory](https://github.com/ZubeidHendricks/wp-plugin-factory).
