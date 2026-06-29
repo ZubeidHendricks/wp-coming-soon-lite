@@ -2,7 +2,7 @@
 Contributors: zubeidhendricks
 Tags: coming soon, maintenance mode, under construction, landing page
 Requires at least: 5.8
-Tested up to: 6.7
+Tested up to: 7.0
 Requires PHP: 7.2
 Stable tag: 1.0.0
 License: GPLv2 or later
